@@ -45,3 +45,4 @@ except ZeroDivisionError:
     print("На нуль ділити не можна")
 except ValueError:
     print("Потрібно було ввести саме число!!!")
+
